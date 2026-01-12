@@ -103,7 +103,7 @@ footer{
     transform-origin: 50% 50%;
 }
 
-.Image img:hover {
+html :hover {
     transform: scale(1.9);
 }
 
