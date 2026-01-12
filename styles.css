@@ -92,7 +92,7 @@ footer{
      background-position: bottom right;
 }
 
-colgroup{
+table{
     column-width: 350px;
     border-style: double;
     border-width: 7px;
