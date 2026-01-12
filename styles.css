@@ -88,6 +88,14 @@ footer{
     vertical-align: text-bottom;
     margin-left: 10px;
     height: 5em;
-    object-fit: scale-down;
+    object-fit: fill;
      background-position: bottom right;
 }
+
+colgroup{
+    column-width: 350px;
+    border-style: double;
+    border-width: 7px;
+    border-color: rgb(240, 248, 255);
+}
+
