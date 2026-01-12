@@ -100,9 +100,8 @@ table{
 }
 
 td{
-    max-width: fit-content;
-    max-height: fit-content;
-    object-fit: cover;
+    max-width: 60%;
+    height: auto;
 }
 
 a {
