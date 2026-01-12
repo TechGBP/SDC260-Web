@@ -89,4 +89,5 @@ footer{
     margin-left: 10px;
     height: 1em;
     object-fit: scale-down;
+     background-position: bottom right;
 }
