@@ -129,6 +129,7 @@ table{
     border-color: rgb(240, 248, 255);
     /* Added by Proj Jen Wright*/
     table-layout: fixed;
+    width: 100%;
     /*End of add table-layout*/
 }
 
@@ -160,5 +161,6 @@ a:hover{
     background-color: rgb(202, 240, 201)
 
 } 
+
 
 
