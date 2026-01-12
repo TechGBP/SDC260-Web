@@ -1,4 +1,4 @@
-@charset "utf-8";
+
 
 /*
 This is my style sheet
@@ -25,3 +25,4 @@ ul{
     display: flex;
     gap: 20px;
 }
+
