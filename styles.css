@@ -103,8 +103,8 @@ footer{
     transform-origin: 50% 50%;
 }
 
- img:hover {
-    transform: scale(1.9);
+.Image img:hover {
+    transform: scale(1.2);
 }
 
 
@@ -116,7 +116,7 @@ table{
 }
 
 td{
-    width: max-content;
+    width: 700px;
     height: auto;
 }
 
