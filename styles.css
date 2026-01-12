@@ -6,14 +6,22 @@ Author: Gabriela Balanta
 */
 
 html {
-  backgound-color: F0C9E9;
-font-style: Arial, Helvetica;
+  background-color: (240, 201, 233);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
   text-align: center;
-  font-size: 15;
-  font-weight: 5;
-  padding: 10;
-  backgound-color: D3C9F0;
+  font-size: 20px;
+  font-weight: 5px;
+  padding: 10px;
+  background-color : (211, 201, 240);
+}
+
+ul{
+    list-style-type: none;
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    gap: 20px;
 }
