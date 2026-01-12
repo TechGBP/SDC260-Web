@@ -6,8 +6,9 @@ Author: Gabriela Balanta
 */
 
 html {
-    background-color: pink;
+    background-color: rgb(240, 201, 233);
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
 }
 
 header {
@@ -15,7 +16,7 @@ header {
   font-size: 20px;
   font-weight: 5px;
   padding: 10px;
-  background-color : lavender;
+  background-color : rgb(185, 163, 247);
 }
 
 ul{
@@ -24,4 +25,40 @@ ul{
     margin: 15px;
     display: flex;
     gap: 20px;
+}
+
+.About {
+    padding: 10px;
+    margin: 10px;
+    border-style: groove;
+    border-color: orange;
+    border-width: 10px;
+    background-color: rgb(226, 196, 162);
+}
+
+.Projects {
+    padding: 10px;
+    margin: 10px;
+    border-style: groove;
+    border-color: rgb(31, 179, 98);
+    border-width: 10px;
+    background-color: rgb(113, 223, 180);
+}
+
+.Contact {
+   padding: 10px;
+    margin: 10px;
+    border-style: groove;
+    border-color: rgb(225, 0, 255);
+    border-width: 10px;
+    background-color: #df719f;  
+}
+
+
+
+footer{
+    font-size: smaller;
+    text-align: center;
+    color: rgb(37, 36, 120) ;
+    background-color: rgb(186, 203, 255);
 }
