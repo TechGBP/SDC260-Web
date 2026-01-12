@@ -74,6 +74,11 @@ ul{
     background-color: rgb(174, 115, 230); 
     }
 }
+/* Add hover -- Prof JW*/
+.Contact:hover{
+  transform: scale(1.01);
+}
+/*End hover*/
 
 
 
@@ -134,4 +139,5 @@ a {
 a:hover{
     color: rgb(105, 7, 7);
     background-color: rgb(202, 240, 201)
+
 } 
