@@ -35,6 +35,9 @@ ul{
     border-width: 10px;
     background-color: rgb(226, 196, 162);
 }
+p:first-of-type {
+    background-color: rgb(226, 196, 162);
+}
 
 .Projects {
     padding: 10px;
