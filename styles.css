@@ -85,5 +85,7 @@ footer{
 
 img{
     padding: 10px;
-    size: 45%;
+    width: 45%;
+    height: 45%;
+    size: 25%;
 }
