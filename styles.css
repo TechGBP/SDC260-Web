@@ -17,13 +17,16 @@ header {
   font-size: 10px;
   font-weight: 5px;
   padding: 10px;
-  background-color : rgb(185, 163, 247);
+  background-color : rgb(247, 163, 247);
 }
 
 h1{
     text-align: center;
     font-size: 25px;
     font-weight: 15px;
+}
+div > h1{
+    font-size: 30px;
 }
 
 ul{
@@ -61,37 +64,16 @@ ul{
 
 
 .Contact {
-   padding: 10px;
+    padding: 10px;
     margin: 10px;
     border-style: groove;
     border-color:rgb(116, 3, 221);
     border-width: 10px;
-    background-color: rgb(158, 63, 247); 
+    background-color: rgb(174, 115, 230); 
     p {
-    background-color: rgb(158, 63, 247); 
+    background-color: rgb(174, 115, 230); 
     }
 }
-
-.About1{
-    font-size: 20px;
-    text-align: center;
-    font-weight: 20px;
-}
-
-
-.Projects1{
-   font-size: 20px;
-    text-align: center;
-    font-weight: 20px;
-}
-
-
-.Contact1{
-    font-size: 20px;
-    text-align: center;
-    font-weight: 20px;
-}
-
 
 
 footer{
