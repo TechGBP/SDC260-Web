@@ -3,7 +3,7 @@ Place for things from class pertaining to my final html code project.
 
 ## Table of Contents
 
-- [Index](#installation)
+- [Index](#https://techgbp.github.io/SDC260-Web/)
 
 ## Index
 
