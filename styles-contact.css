@@ -52,10 +52,6 @@ textarea:hover{
 
 @media screen and (min-width: 480px) {
     body {
-        background-color: rgb(110, 133, 197);
-        border: 5px;
-        border-width: 5px;
-        border-style: double;
         font-size: 15px;
     }
 
